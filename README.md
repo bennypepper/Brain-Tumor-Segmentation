@@ -37,7 +37,7 @@ fcm-brain-tumor-segmentation/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/bennypepper/Brain-Tumor-Segmentation.git
-   cd fcm-brain-tumor-segmentation
+   cd brain-tumor-segmentation
    ```
 
 2. **Install the required dependencies:**
