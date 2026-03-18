@@ -36,7 +36,7 @@ fcm-brain-tumor-segmentation/
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/fcm-brain-tumor-segmentation.git](https://github.com/yourusername/fcm-brain-tumor-segmentation.git)
+   git clone https://github.com/bennypepper/Brain-Tumor-Segmentation.git
    cd fcm-brain-tumor-segmentation
    ```
 
