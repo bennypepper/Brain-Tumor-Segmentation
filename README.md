@@ -1,6 +1,4 @@
-Here is the refined, "gold standard" `README.md` for your Fuzzy C-Means project. It follows the exact same professional structure we used for the Batik Detector, ensuring your portfolio looks incredibly consistent and recruiter-ready across all your repositories.
 
-```markdown
 # Brain Tumor Segmentation using Fuzzy C-Means (FCM) 🧠
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) ![OpenCV](https://img.shields.io/badge/OpenCV-4.5-blue.svg) ![scikit-fuzzy](https://img.shields.io/badge/scikit--fuzzy-0.4.2-orange.svg) ![Graphviz](https://img.shields.io/badge/Graphviz-2.49-lightgrey.svg)
@@ -62,4 +60,4 @@ The algorithm efficiently reached optimal convergence in **34 iterations** with 
 * **Ground Truth Validation:** Compare algorithmic outputs against expert-annotated masks to calculate exact Accuracy, Specificity, and Dice Coefficients.
 * **Skull Stripping Pipeline:** Introduce a pre-processing step to isolate brain tissue from the skull for improved clustering focus.
 * **Texture Analysis Integration:** Expand feature extraction beyond pixel intensity to include tissue texture matrices.
-```
+  
