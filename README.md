@@ -1,5 +1,5 @@
 
-# Brain Tumor Segmentation using Fuzzy C-Means (FCM) 🧠
+# Brain Tumor Segmentation using Fuzzy C-Means (FCM) 
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) ![OpenCV](https://img.shields.io/badge/OpenCV-4.5-blue.svg) ![scikit-fuzzy](https://img.shields.io/badge/scikit--fuzzy-0.4.2-orange.svg) ![Graphviz](https://img.shields.io/badge/Graphviz-2.49-lightgrey.svg)
 
