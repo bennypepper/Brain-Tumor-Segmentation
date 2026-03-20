@@ -1,5 +1,5 @@
 
-# Brain Tumor Segmentation using Fuzzy C-Means (FCM) 🧠
+# Brain Tumor Segmentation using Fuzzy C-Means (FCM) 
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) ![OpenCV](https://img.shields.io/badge/OpenCV-4.5-blue.svg) ![scikit-fuzzy](https://img.shields.io/badge/scikit--fuzzy-0.4.2-orange.svg) ![Graphviz](https://img.shields.io/badge/Graphviz-2.49-lightgrey.svg)
 
@@ -36,8 +36,8 @@ fcm-brain-tumor-segmentation/
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/fcm-brain-tumor-segmentation.git](https://github.com/yourusername/fcm-brain-tumor-segmentation.git)
-   cd fcm-brain-tumor-segmentation
+   git clone https://github.com/bennypepper/Brain-Tumor-Segmentation.git
+   cd brain-tumor-segmentation
    ```
 
 2. **Install the required dependencies:**
