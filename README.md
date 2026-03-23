@@ -1,3 +1,13 @@
+---
+title: Brain Tumor Segmentation
+emoji: 🧠
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.32.0
+app_file: app.py
+pinned: false
+---
 
 # Brain Tumor Segmentation using Fuzzy C-Means (FCM) 
 
